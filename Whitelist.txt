@@ -3,12 +3,6 @@
 @@||cdninstagram.com^$important
 @@||instagram.com^$important
 @@||instagram.c10r.facebook.com^$important
-# F1 TV
-@@||f1-prod-production.apigee.net^$important
-@@||f1-prod-production.dn.apigee.net^$important
-@@||formula1.com^$important
-# Joyn TV Stream
-@@||yospace.com^$important
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
@@ -72,22 +66,10 @@
 @@||cdn.embedly.com^$important
 # Dataplicity.com
 @@||dataplicity.com^$important
-# Drift.com
-@@||drift.com^$important
-@@||driftt.com^$important
 # Giphy.com
 @@||giphy.com^$important
 # Gravatar Image
 @@||gravatar.com^$important
-# Ted.com
-@@||hls.ted.com^$important
-@@||app-api.ted.com^$important
-@@||tedcdn.com^$important
-# Vidible Video Platform
-@@||img.vidible.tv^$important
-@@||cdn.vidible.tv^$important
-@@||delivery.vidible.tv^$important
-@@||videos.vidible.tv^$important
 # ImgIX
 @@||imgix.net^$important
 # XKCD
@@ -102,41 +84,22 @@
 @@||keystone.mwbsys.com^$important
 # Aliexpress.com
 @@||login.aliexpress.com^$important
-# Adswizz sponsor clips before several podcasts
-@@||npr-news.streaming.adswizz.com^$important
-# CBS Television Stream
-@@||cbsi.com^$important
-@@||cbsinteractive.hb.omtrdc.net^$important
-@@||s0.2mdn.net^$important
-# Audioscrobbler.com
-@@||ws.audioscrobbler.com^$important
 # Pinterest
 @@||pinterest.com^$important
 # Placehold it image soft
 @@||placehold.it^$important
 @@||placeholdit.imgix.net^$important
-# Brightcove Player
-@@||brightcove.net^$important
-@@||secure.brightcove.com^$important
-@@||edge.api.brightcove.com^$important
 # Cloudinary Upload Platform
 @@||res.cloudinary.com^$important
-# Shopify.com eCommerce Software
-@@||v.shopify.com^$important
-@@||s.shopify.com^$important
 # Wordpress
 @@||wp.com^$important
 @@||wordpress.com^$important
-# Avangate Shop
-@@||secure.avangate.com^$important
 # Surveymonkey
 @@||secure.surveymonkey.com^$important
 # JW Player
 @@||ssl.p.jwpcdn.com^$important
 # Themoviedb.com
 @@||themoviedb.com^$important
-# Thetvdb.com
-@@||thetvdb.com^$important
 # Tinyurl Shortener
 @@||tinyurl.com^$important
 # Libsyn Podcast Hosting
